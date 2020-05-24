@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-app-booklist/static/js/main.f036dd6c.chunk.js",
-    "main.js.map": "/react-app-booklist/static/js/main.f036dd6c.chunk.js.map",
+    "main.js": "/react-app-booklist/static/js/main.537dbf63.chunk.js",
+    "main.js.map": "/react-app-booklist/static/js/main.537dbf63.chunk.js.map",
     "runtime-main.js": "/react-app-booklist/static/js/runtime-main.0dd1188d.js",
     "runtime-main.js.map": "/react-app-booklist/static/js/runtime-main.0dd1188d.js.map",
     "static/js/2.9e9f95cb.chunk.js": "/react-app-booklist/static/js/2.9e9f95cb.chunk.js",
     "static/js/2.9e9f95cb.chunk.js.map": "/react-app-booklist/static/js/2.9e9f95cb.chunk.js.map",
     "index.html": "/react-app-booklist/index.html",
-    "precache-manifest.523fd831fbc1400f5448e69e3aa6641d.js": "/react-app-booklist/precache-manifest.523fd831fbc1400f5448e69e3aa6641d.js",
+    "precache-manifest.c9a7177d7481813b4b6a4afd3a0999a5.js": "/react-app-booklist/precache-manifest.c9a7177d7481813b4b6a4afd3a0999a5.js",
     "service-worker.js": "/react-app-booklist/service-worker.js",
     "static/js/2.9e9f95cb.chunk.js.LICENSE.txt": "/react-app-booklist/static/js/2.9e9f95cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0dd1188d.js",
     "static/js/2.9e9f95cb.chunk.js",
-    "static/js/main.f036dd6c.chunk.js"
+    "static/js/main.537dbf63.chunk.js"
   ]
 }
