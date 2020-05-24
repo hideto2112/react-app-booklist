@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "094122653907ce7b3a4cb8d00b84957e",
+    "revision": "629346d735358ba6d9e7a7b25e20b0d2",
     "url": "/react-app-booklist/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-booklist/static/js/2.6a962681.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "054ea4c7b8d97595ef23",
-    "url": "/react-app-booklist/static/js/main.75311635.chunk.js"
+    "revision": "fd0cd6651bb45c9f1c03",
+    "url": "/react-app-booklist/static/js/main.6502a32b.chunk.js"
   },
   {
     "revision": "7a08277689db31e77867",
