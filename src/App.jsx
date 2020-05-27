@@ -11,7 +11,7 @@ const App = () => {
     return result;
   }
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div>
         <h1>react app</h1>
         <ul>
