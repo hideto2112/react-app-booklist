@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cef5ef70d7d84e362598a412fdb7a1a7",
+    "revision": "8955106198359ca2b18d575f88070885",
     "url": "https://hideto2112.github.io/react-app-booklist/index.html"
   },
   {
