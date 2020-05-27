@@ -9,12 +9,37 @@ const Booklist = props => {
 
   return (
     <div>
-      <ul>
-        {
-          bookData === null
-            ? <p>now loading...</p>
-            : bookData.data.items.map((x, index) => <li key={index}>{x.volumeInfo.title}</li>)}
-      </ul>
+      <table>
+        <tbody>
+          {
+            bookData === null
+              ? <tr><td>now loading...</td></tr>
+              : bookData.data.items.map((x, index) =>
+                <tr key={index}>
+                  <td>
+                    {
+                      x.volumeInfo.imageLinks?.smallThumbnail
+                        ? <img src={x.volumeInfo.imageLinks?.smallThumbnail} alt="Book's thumbnail" />
+                        : <p>No image</p>
+                    }
+                  </td>
+                  <td>
+                    <p>{x.volumeInfo.title}</p>
+                    <ul>
+                      {
+                        x.volumeInfo.authors?.map((y, index) =>
+                          <li key={index}>{y}</li>
+                        )
+                      }
+                    </ul>
+                    <p>{x.volumeInfo.publishedDate}</p>
+                    <p><a href={x.volumeInfo.previewLink}>Preview</a></p>
+                  </td>
+                </tr>
+              )
+          }
+        </tbody>
+      </table>
     </div>
   );
 }
