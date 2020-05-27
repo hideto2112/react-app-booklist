@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://hideto2112.github.io/react-app-booklist/precache-manifest.e5439105729901b53785a5d217b84f07.js"
+  "https://hideto2112.github.io/react-app-booklist/precache-manifest.0713cfd520bb6fc72fd0cfdec659237c.js"
 );
 
 self.addEventListener('message', (event) => {
