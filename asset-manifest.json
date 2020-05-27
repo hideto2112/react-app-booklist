@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://hideto2112.github.io/react-app-booklist/static/js/main.c56957b9.chunk.js",
-    "main.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/main.c56957b9.chunk.js.map",
-    "runtime-main.js": "https://hideto2112.github.io/react-app-booklist/static/js/runtime-main.e02f7c36.js",
-    "runtime-main.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/runtime-main.e02f7c36.js.map",
-    "static/js/2.6a962681.chunk.js": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js",
-    "static/js/2.6a962681.chunk.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js.map",
-    "index.html": "https://hideto2112.github.io/react-app-booklist/index.html",
-    "precache-manifest.ce2fb4939d1587bd2594695e224b91cc.js": "https://hideto2112.github.io/react-app-booklist/precache-manifest.ce2fb4939d1587bd2594695e224b91cc.js",
-    "service-worker.js": "https://hideto2112.github.io/react-app-booklist/service-worker.js",
-    "static/js/2.6a962681.chunk.js.LICENSE.txt": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js.LICENSE.txt"
+    "main.js": "react-app-booklist/static/js/main.2a0c09cc.chunk.js",
+    "main.js.map": "react-app-booklist/static/js/main.2a0c09cc.chunk.js.map",
+    "runtime-main.js": "react-app-booklist/static/js/runtime-main.565b9394.js",
+    "runtime-main.js.map": "react-app-booklist/static/js/runtime-main.565b9394.js.map",
+    "static/js/2.6a962681.chunk.js": "react-app-booklist/static/js/2.6a962681.chunk.js",
+    "static/js/2.6a962681.chunk.js.map": "react-app-booklist/static/js/2.6a962681.chunk.js.map",
+    "index.html": "react-app-booklist/index.html",
+    "precache-manifest.56a07bac6112627bbc8879625d8fed7b.js": "react-app-booklist/precache-manifest.56a07bac6112627bbc8879625d8fed7b.js",
+    "service-worker.js": "react-app-booklist/service-worker.js",
+    "static/js/2.6a962681.chunk.js.LICENSE.txt": "react-app-booklist/static/js/2.6a962681.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e02f7c36.js",
+    "static/js/runtime-main.565b9394.js",
     "static/js/2.6a962681.chunk.js",
-    "static/js/main.c56957b9.chunk.js"
+    "static/js/main.2a0c09cc.chunk.js"
   ]
 }
