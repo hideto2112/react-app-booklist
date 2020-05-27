@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.5413d549.chunk.js",
-    "main.js.map": "/static/js/main.5413d549.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7614d3cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7614d3cf.js.map",
-    "static/js/2.6a962681.chunk.js": "/static/js/2.6a962681.chunk.js",
-    "static/js/2.6a962681.chunk.js.map": "/static/js/2.6a962681.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c4db6509e6a258e667ec7be615c624b6.js": "/precache-manifest.c4db6509e6a258e667ec7be615c624b6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.6a962681.chunk.js.LICENSE.txt": "/static/js/2.6a962681.chunk.js.LICENSE.txt"
+    "main.js": "https://hideto2112.github.io/react-app-booklist/static/js/main.c56957b9.chunk.js",
+    "main.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/main.c56957b9.chunk.js.map",
+    "runtime-main.js": "https://hideto2112.github.io/react-app-booklist/static/js/runtime-main.e02f7c36.js",
+    "runtime-main.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/runtime-main.e02f7c36.js.map",
+    "static/js/2.6a962681.chunk.js": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js",
+    "static/js/2.6a962681.chunk.js.map": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js.map",
+    "index.html": "https://hideto2112.github.io/react-app-booklist/index.html",
+    "precache-manifest.ce2fb4939d1587bd2594695e224b91cc.js": "https://hideto2112.github.io/react-app-booklist/precache-manifest.ce2fb4939d1587bd2594695e224b91cc.js",
+    "service-worker.js": "https://hideto2112.github.io/react-app-booklist/service-worker.js",
+    "static/js/2.6a962681.chunk.js.LICENSE.txt": "https://hideto2112.github.io/react-app-booklist/static/js/2.6a962681.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7614d3cf.js",
+    "static/js/runtime-main.e02f7c36.js",
     "static/js/2.6a962681.chunk.js",
-    "static/js/main.5413d549.chunk.js"
+    "static/js/main.c56957b9.chunk.js"
   ]
 }
