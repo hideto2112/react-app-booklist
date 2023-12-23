@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "2.2.0"
+    "gh-pages": "6.1.1"
   },
   "homepage": "https://hideto2112.github.io/react-app-booklist/"
 }
